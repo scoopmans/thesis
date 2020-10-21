@@ -1,0 +1,698 @@
+id,reason_for_absence,date_of_absence,transportation_expense,distance_from_residence_to_work,service_time,age,work_load_average/day,hit_target,disciplinary_failure,education,son,social_drinker,social_smoker,pet,weight,height,body_mass_index,absenteeism_time_in_hours
+11,unjustified absence,2010-07-27,289.0,36,13.0,33,239.554,97,0,high school,2,1,0,1,90.0,172.0,30,4
+3,medical consultation,2007-07-25,179.0,51,18.0,38,239.554,97,0,high school,0,1,0,0,,170.0,31,2
+7,diseases of the eye,2007-07-26,279.0,5,14.0,39,239.554,97,0,high school,2,1,1,0,68.0,168.0,24,4
+11,medical consultation,2009-07-23,,36,13.0,33,239.554,97,0,high school,2,1,0,1,90.0,172.0,30,2
+3,medical consultation,2010-07-23,179.0,51,18.0,38,239.554,97,0,high school,0,1,0,0,89.0,170.0,31,2
+10,patient follow-up,2008-07-25,,52,3.0,28,239.554,97,0,high school,1,1,0,4,80.0,172.0,27,8
+20,medical consultation,2009-07-24,,50,11.0,36,239.554,97,0,high school,4,1,0,0,65.0,168.0,23,4
+14,"injury, poisoning and other external causes",2008-07-28,155.0,12,,34,239.554,97,0,high school,2,1,0,0,95.0,196.0,25,40
+1,patient follow-up,2007-07-23,235.0,11,14.0,37,239.554,97,0,postgraduate,1,0,0,1,88.0,172.0,29,8
+20,infectious and parasitic diseases,2007-07-23,260.0,50,11.0,36,239.554,97,0,high school,4,1,0,0,65.0,168.0,23,8
+20,infectious and parasitic diseases,2007-07-24,260.0,50,11.0,36,239.554,97,0,high school,4,1,0,0,65.0,168.0,23,8
+20,digestive diseases,2008-07-23,260.0,50,11.0,36,239.554,97,0,high school,4,1,0,0,65.0,168.0,23,8
+3,digestive diseases,2008-07-23,179.0,51,,38,239.554,97,0,high school,0,1,0,0,89.0,170.0,31,1
+3,medical consultation,2009-07-22,179.0,51,,38,239.554,97,0,high school,0,1,0,0,89.0,170.0,31,4
+24,genitourinary diseases,2009-07-24,246.0,25,16.0,41,239.554,97,0,high school,0,1,0,0,67.0,170.0,23,8
+3,medical consultation,2009-07-24,179.0,51,18.0,38,239.554,97,0,high school,0,1,0,0,89.0,,31,2
+3,factors influencing health status,2010-07-26,179.0,51,18.0,38,239.554,97,0,high school,0,1,0,0,,,31,8
+6,digestive diseases,2007-07-26,,29,13.0,33,239.554,97,0,high school,2,0,0,2,69.0,167.0,25,8
+33,medical consultation,2007-08-22,248.0,25,14.0,47,205.917,92,0,high school,2,0,0,1,86.0,,32,2
+18,respiratory diseases,2010-08-25,330.0,16,4.0,28,205.917,92,0,graduate,0,0,0,0,,182.0,25,8
+3,digestive diseases,2007-08-27,179.0,51,18.0,38,205.917,92,0,high school,0,1,0,0,89.0,170.0,31,1
+10,muscoskeletal diseases,2007-08-27,361.0,52,3.0,28,205.917,92,0,high school,1,1,0,4,80.0,172.0,27,40
+20,dental consultation,2010-08-27,260.0,50,11.0,36,205.917,92,0,high school,4,1,0,0,65.0,168.0,23,4
+11,abnormal clinical and laboratory findings,2009-08-24,289.0,36,,33,205.917,92,0,high school,2,1,0,1,90.0,172.0,30,8
+10,laboratory examination,2008-08-25,361.0,52,3.0,28,205.917,92,0,high school,1,1,0,4,80.0,,27,7
+11,medical consultation,2009-08-25,,36,,33,205.917,92,0,high school,2,1,0,1,,,30,1
+30,dental consultation,2007-08-22,,27,6.0,29,205.917,92,0,high school,0,1,1,0,75.0,185.0,22,4
+11,abnormal clinical and laboratory findings,2008-08-27,289.0,36,13.0,33,205.917,92,0,high school,2,1,0,1,,,30,8
+3,medical consultation,2007-08-24,179.0,51,18.0,38,205.917,92,0,high school,0,1,0,0,89.0,170.0,31,2
+3,abnormal clinical and laboratory findings,2008-08-25,,51,18.0,38,205.917,92,0,high school,0,1,0,0,89.0,170.0,31,8
+2,abnormal clinical and laboratory findings,2010-08-26,235.0,29,12.0,48,205.917,92,0,high school,1,0,1,5,,163.0,33,8
+1,medical consultation,2010-08-26,235.0,11,,37,205.917,92,0,postgraduate,1,0,0,1,,172.0,29,4
+2,abnormal clinical and laboratory findings,2009-08-24,235.0,29,12.0,48,205.917,92,0,high school,1,0,1,5,88.0,163.0,33,8
+3,medical consultation,2009-08-24,,51,,38,205.917,92,0,high school,0,1,0,0,89.0,170.0,31,2
+10,medical consultation,2010-08-23,361.0,52,3.0,28,205.917,92,0,high school,1,1,0,4,80.0,172.0,27,1
+11,blood donation,2008-08-26,289.0,36,13.0,33,205.917,92,0,high school,2,1,0,1,90.0,172.0,30,8
+19,digestive diseases,2008-08-28,291.0,50,12.0,32,205.917,92,0,high school,0,1,0,0,65.0,169.0,23,4
+2,dental consultation,2010-08-27,,29,12.0,48,205.917,92,0,high school,1,0,1,5,88.0,163.0,33,8
+20,medical consultation,2009-08-28,260.0,50,11.0,36,205.917,92,0,high school,4,1,0,0,65.0,168.0,23,4
+27,medical consultation,2007-09-25,184.0,42,7.0,27,241.476,92,0,high school,0,0,0,0,58.0,,21,2
+34,medical consultation,2007-09-24,118.0,10,10.0,37,241.476,92,0,high school,0,0,0,0,83.0,,28,4
+3,medical consultation,2009-09-22,,51,,38,241.476,92,0,high school,0,1,0,0,89.0,170.0,31,4
+5,"injury, poisoning and other external causes",2009-09-22,235.0,20,13.0,43,241.476,92,0,high school,1,1,0,0,106.0,167.0,38,8
+14,medical consultation,2008-09-24,155.0,12,14.0,34,241.476,92,0,high school,2,1,0,0,95.0,,25,2
+34,medical consultation,2008-09-22,118.0,10,,37,241.476,92,0,high school,0,0,0,0,83.0,172.0,28,3
+3,medical consultation,2008-09-23,179.0,51,18.0,38,241.476,92,0,high school,0,1,0,0,89.0,170.0,31,3
+15,medical consultation,2007-09-27,291.0,31,12.0,40,241.476,92,0,high school,1,1,0,1,73.0,171.0,25,4
+20,patient follow-up,2007-09-28,260.0,50,11.0,36,241.476,92,0,high school,4,1,0,0,,,23,8
+15,genitourinary diseases,2007-09-24,291.0,31,12.0,40,241.476,92,0,high school,1,1,0,1,73.0,171.0,25,32
+28,medical consultation,2007-09-25,225.0,26,9.0,28,241.476,92,0,high school,1,0,0,2,69.0,169.0,24,2
+34,medical consultation,2010-09-28,118.0,10,10.0,37,241.476,92,0,high school,0,0,0,0,83.0,172.0,28,2
+28,abnormal clinical and laboratory findings,2007-09-26,225.0,26,9.0,28,241.476,92,0,high school,1,0,0,2,,,24,3
+3,medical consultation,2007-09-26,179.0,51,18.0,38,241.476,92,0,high school,0,1,0,0,89.0,170.0,31,3
+33,medical consultation,2009-09-25,248.0,25,14.0,47,241.476,92,0,high school,2,0,0,1,86.0,165.0,32,1
+3,medical consultation,2008-09-26,179.0,51,18.0,38,241.476,92,0,high school,0,1,0,0,,170.0,31,3
+20,medical consultation,2009-09-25,,50,11.0,36,241.476,92,0,high school,4,1,0,0,65.0,168.0,23,4
+3,medical consultation,2009-10-27,179.0,51,18.0,38,253.465,93,0,high school,0,1,0,0,89.0,170.0,31,3
+34,medical consultation,2008-10-28,118.0,10,10.0,37,253.465,93,0,high school,0,0,0,0,83.0,172.0,28,3
+22,medical consultation,2008-10-23,179.0,26,9.0,30,253.465,93,0,postgraduate,0,0,0,0,56.0,171.0,19,1
+3,medical consultation,2010-10-22,,51,18.0,38,253.465,93,0,high school,0,1,0,0,,170.0,31,3
+28,medical consultation,2007-10-26,225.0,26,,28,253.465,93,0,high school,1,0,0,2,69.0,169.0,24,3
+34,medical consultation,2009-10-27,,10,10.0,37,253.465,93,0,high school,0,0,0,0,83.0,172.0,28,3
+28,medical consultation,2009-10-28,225.0,26,9.0,28,253.465,93,0,high school,1,0,0,2,,169.0,24,2
+33,medical consultation,2008-10-22,248.0,25,14.0,47,253.465,93,0,high school,2,0,0,1,86.0,165.0,32,2
+15,medical consultation,2007-10-25,291.0,31,12.0,40,253.465,93,0,high school,1,1,0,1,73.0,171.0,25,5
+3,medical consultation,2008-10-22,,51,18.0,38,253.465,93,0,high school,0,1,0,0,89.0,170.0,31,8
+28,medical consultation,2009-10-28,225.0,26,9.0,28,253.465,93,0,high school,1,0,0,2,69.0,169.0,24,3
+20,"injury, poisoning and other external causes",2010-10-28,260.0,50,11.0,36,253.465,93,0,high school,4,1,0,0,65.0,168.0,23,16
+15,genitourinary diseases,2007-10-23,,31,12.0,40,253.465,93,0,high school,1,1,0,1,73.0,171.0,25,8
+28,dental consultation,2009-10-27,,26,9.0,28,253.465,93,0,high school,1,0,0,2,69.0,169.0,24,2
+11,unjustified absence,2009-10-28,289.0,36,13.0,33,253.465,93,0,high school,2,1,0,1,90.0,172.0,30,8
+10,medical consultation,2010-10-22,361.0,52,,28,253.465,93,0,high school,1,1,0,4,80.0,172.0,27,1
+20,dental consultation,2009-10-23,260.0,50,,36,253.465,93,0,high school,4,1,0,0,,168.0,23,3
+3,medical consultation,2009-11-26,179.0,51,18.0,38,306.345,93,0,high school,0,1,0,0,89.0,170.0,31,1
+28,medical consultation,2007-11-28,225.0,26,9.0,28,306.345,93,0,high school,1,0,0,2,69.0,,24,1
+3,muscoskeletal diseases,2008-11-27,179.0,51,18.0,38,306.345,93,0,high school,0,1,0,0,89.0,170.0,31,8
+17,factors influencing health status,2008-11-27,179.0,22,17.0,40,306.345,93,0,graduate,2,0,1,0,,170.0,22,8
+15,medical consultation,2009-11-26,291.0,31,12.0,40,306.345,93,0,high school,1,1,0,1,73.0,171.0,25,5
+14,respiratory diseases,2007-11-26,155.0,12,14.0,34,306.345,93,0,high school,2,1,0,0,95.0,196.0,25,32
+6,patient follow-up,2010-11-22,,29,,33,306.345,93,0,high school,2,0,0,2,69.0,167.0,25,8
+15,genitourinary diseases,2009-11-23,291.0,31,12.0,40,306.345,93,0,high school,1,1,0,1,73.0,171.0,25,40
+28,medical consultation,2007-11-28,225.0,26,9.0,28,306.345,93,0,high school,1,0,0,2,,,24,1
+14,diseases of the nervous system,2007-11-23,,12,14.0,34,306.345,93,0,high school,2,1,0,0,95.0,196.0,25,8
+28,medical consultation,2008-11-26,225.0,26,9.0,28,306.345,93,0,high school,1,0,0,2,,169.0,24,3
+17,factors influencing health status,2008-11-26,179.0,22,17.0,40,306.345,93,0,graduate,2,0,1,0,63.0,,22,8
+28,muscoskeletal diseases,2007-11-23,225.0,26,9.0,28,306.345,93,0,high school,1,0,0,2,,169.0,24,3
+20,dental consultation,2007-11-23,,50,11.0,36,306.345,93,0,high school,4,1,0,0,65.0,168.0,23,4
+33,dental consultation,2009-11-23,,25,14.0,47,306.345,93,0,high school,2,0,0,1,,165.0,32,1
+28,dental consultation,2007-11-27,225.0,26,9.0,28,306.345,93,0,high school,1,0,0,2,,169.0,24,3
+11,diseases of the eye,2010-11-24,289.0,36,13.0,33,306.345,93,0,high school,2,1,0,1,90.0,172.0,30,24
+15,medical consultation,2008-11-27,,31,12.0,40,306.345,93,0,high school,1,1,0,1,73.0,171.0,25,3
+33,medical consultation,2008-12-23,248.0,25,14.0,47,261.306,97,0,high school,2,0,0,1,86.0,165.0,32,1
+34,"injury, poisoning and other external causes",2008-12-23,118.0,10,10.0,37,261.306,97,0,high school,0,0,0,0,,172.0,28,64
+36,medical consultation,2008-12-24,118.0,13,18.0,50,261.306,97,0,high school,1,1,0,0,,178.0,31,2
+1,unjustified absence,2010-12-22,235.0,11,,37,261.306,97,0,postgraduate,1,0,0,1,,172.0,29,8
+28,medical consultation,2008-12-25,225.0,26,9.0,28,261.306,97,0,high school,1,0,0,2,69.0,169.0,24,2
+20,unjustified absence,2007-12-28,260.0,50,11.0,36,261.306,97,0,high school,4,1,0,0,,168.0,23,8
+34,"injury, poisoning and other external causes",2007-12-25,118.0,10,10.0,37,261.306,97,0,high school,0,0,0,0,83.0,172.0,28,56
+10,patient follow-up,2008-12-24,361.0,52,3.0,28,261.306,97,0,high school,1,1,0,4,80.0,,27,8
+28,dental consultation,2009-12-24,225.0,26,9.0,28,261.306,97,0,high school,1,0,0,2,69.0,169.0,24,3
+20,dental consultation,2009-12-25,260.0,50,11.0,36,261.306,97,0,high school,4,1,0,0,65.0,,23,3
+28,medical consultation,2007-12-25,225.0,26,,28,261.306,97,0,high school,1,0,0,2,69.0,169.0,24,2
+10,patient follow-up,2008-12-24,,52,,28,261.306,97,0,high school,1,1,0,4,80.0,172.0,27,8
+34,physiotherapy,2008-12-26,118.0,10,10.0,37,261.306,97,0,high school,0,0,0,0,83.0,172.0,28,2
+24,"injury, poisoning and other external causes",2007-12-28,246.0,25,16.0,41,261.306,97,0,high school,0,1,0,0,67.0,170.0,23,8
+28,medical consultation,2009-12-25,225.0,26,9.0,28,261.306,97,0,high school,1,0,0,2,69.0,169.0,24,2
+28,medical consultation,2010-01-27,225.0,26,9.0,28,308.593,95,0,high school,1,0,0,2,69.0,169.0,24,1
+34,"injury, poisoning and other external causes",2007-01-22,,10,,37,308.593,95,0,high school,0,0,0,0,83.0,,28,1
+34,physiotherapy,2008-01-22,,10,10.0,37,308.593,95,0,high school,0,0,0,0,83.0,,28,1
+14,abnormal clinical and laboratory findings,2010-01-26,,12,14.0,34,308.593,95,0,high school,2,1,0,0,95.0,196.0,25,8
+28,physiotherapy,2010-01-27,225.0,26,,28,308.593,95,0,high school,1,0,0,2,69.0,169.0,24,2
+27,medical consultation,2007-01-25,184.0,42,7.0,27,308.593,95,0,high school,0,0,0,0,58.0,167.0,21,2
+28,dental consultation,2008-01-24,225.0,26,9.0,28,308.593,95,0,high school,1,0,0,2,69.0,169.0,24,2
+28,physiotherapy,2007-01-26,225.0,26,9.0,28,308.593,95,0,high school,1,0,0,2,69.0,169.0,24,1
+34,physiotherapy,2010-01-25,118.0,10,10.0,37,308.593,95,0,high school,0,0,0,0,,172.0,28,2
+28,physiotherapy,2008-01-22,225.0,26,9.0,28,308.593,95,0,high school,1,0,0,2,69.0,169.0,24,2
+34,physiotherapy,2009-01-27,118.0,10,10.0,37,308.593,95,0,high school,0,0,0,0,83.0,172.0,28,2
+34,physiotherapy,2007-01-24,118.0,10,10.0,37,308.593,95,0,high school,0,0,0,0,83.0,172.0,28,2
+34,physiotherapy,2009-01-22,118.0,10,10.0,37,308.593,95,0,high school,0,0,0,0,83.0,172.0,28,2
+34,physiotherapy,2010-01-22,118.0,10,,37,308.593,95,0,high school,0,0,0,0,83.0,172.0,28,2
+34,physiotherapy,2010-01-25,,10,10.0,37,308.593,95,0,high school,0,0,0,0,83.0,,28,2
+34,physiotherapy,2007-01-23,118.0,10,10.0,37,308.593,95,0,high school,0,0,0,0,83.0,172.0,28,2
+22,abnormal clinical and laboratory findings,2008-01-22,,26,9.0,30,308.593,95,0,postgraduate,0,0,0,0,56.0,,19,8
+11,abnormal clinical and laboratory findings,2010-01-26,289.0,36,13.0,33,308.593,95,0,high school,2,1,0,1,90.0,172.0,30,8
+34,physiotherapy,2009-01-28,118.0,10,10.0,37,308.593,95,0,high school,0,0,0,0,83.0,172.0,28,2
+27,medical consultation,2010-01-28,184.0,42,7.0,27,308.593,95,0,high school,0,0,0,0,58.0,167.0,21,2
+34,physiotherapy,2007-01-25,118.0,10,10.0,37,308.593,95,0,high school,0,0,0,0,83.0,,28,2
+34,physiotherapy,2009-01-26,118.0,10,10.0,37,308.593,95,0,high school,0,0,0,0,83.0,172.0,28,0
+28,medical consultation,2009-01-27,225.0,26,,28,308.593,95,0,high school,1,0,0,2,69.0,169.0,24,1
+11,patient follow-up,2008-01-24,289.0,36,13.0,33,308.593,95,0,high school,2,1,0,1,90.0,172.0,30,3
+27,medical consultation,2007-02-23,184.0,42,7.0,27,302.585,99,0,high school,0,0,0,0,58.0,167.0,21,1
+24,infectious and parasitic diseases,2008-02-27,246.0,25,16.0,41,302.585,99,0,high school,0,1,0,0,67.0,170.0,23,8
+3,digestive diseases,2009-02-25,179.0,51,18.0,38,302.585,99,0,high school,0,1,0,0,,170.0,31,8
+14,dental consultation,2008-02-28,,12,14.0,34,302.585,99,0,high school,2,1,0,0,,,25,2
+6,medical consultation,2007-02-22,189.0,29,13.0,33,302.585,99,0,high school,2,0,0,2,69.0,167.0,25,8
+20,dental consultation,2009-02-27,,50,11.0,36,302.585,99,0,high school,4,1,0,0,65.0,168.0,23,2
+11,patient follow-up,2007-02-23,289.0,36,13.0,33,302.585,99,0,high school,2,1,0,1,,172.0,30,8
+31,digestive diseases,2010-02-22,388.0,15,9.0,50,302.585,99,0,high school,0,0,0,0,76.0,178.0,24,8
+31,infectious and parasitic diseases,2007-02-27,,15,9.0,50,302.585,99,0,high school,0,0,0,0,76.0,178.0,24,8
+28,dental consultation,2009-02-23,,26,9.0,28,302.585,99,0,high school,1,0,0,2,69.0,169.0,24,2
+28,medical consultation,2010-02-23,225.0,26,,28,302.585,99,0,high school,1,0,0,2,69.0,,24,2
+22,medical consultation,2007-02-27,179.0,26,,30,302.585,99,0,postgraduate,0,0,0,0,56.0,171.0,19,1
+27,medical consultation,2007-02-27,184.0,42,,27,302.585,99,0,high school,0,0,0,0,,167.0,21,8
+28,laboratory examination,2008-02-28,225.0,26,9.0,28,302.585,99,0,high school,1,0,0,2,69.0,,24,3
+18,abnormal clinical and laboratory findings,2010-02-22,,16,,28,302.585,99,0,graduate,0,0,0,0,84.0,182.0,25,8
+18,medical consultation,2008-02-26,330.0,16,4.0,28,302.585,99,0,graduate,0,0,0,0,84.0,,25,1
+28,medical consultation,2007-02-28,225.0,26,,28,302.585,99,0,high school,1,0,0,2,69.0,169.0,24,1
+6,"injury, poisoning and other external causes",2009-02-26,189.0,29,13.0,33,302.585,99,0,high school,2,0,0,2,69.0,167.0,25,8
+19,dental consultation,2009-03-24,291.0,50,12.0,32,343.25300000000004,95,0,high school,0,1,0,0,,,23,2
+20,"injury, poisoning and other external causes",2010-03-23,260.0,50,11.0,36,343.25300000000004,95,0,high school,4,1,0,0,65.0,168.0,23,8
+30,"injury, poisoning and other external causes",2008-03-25,157.0,27,6.0,29,343.25300000000004,95,0,high school,0,1,1,0,75.0,185.0,22,3
+17,congenital malformations,2009-03-24,179.0,22,17.0,40,343.25300000000004,95,0,graduate,2,0,1,0,63.0,170.0,22,8
+15,patient follow-up,2010-03-24,291.0,31,,40,343.25300000000004,95,0,high school,1,1,0,1,,171.0,25,8
+20,muscoskeletal diseases,2010-03-24,260.0,50,11.0,36,343.25300000000004,95,0,high school,4,1,0,0,,168.0,23,8
+22,muscoskeletal diseases,2008-03-27,179.0,26,,30,343.25300000000004,95,0,postgraduate,0,0,0,0,56.0,171.0,19,8
+33,genitourinary diseases,2007-03-23,248.0,25,14.0,47,343.25300000000004,95,0,high school,2,0,0,1,86.0,165.0,32,3
+20,muscoskeletal diseases,2008-03-28,260.0,50,,36,343.25300000000004,95,0,high school,4,1,0,0,65.0,168.0,23,40
+17,digestive diseases,2008-03-24,179.0,22,17.0,40,343.25300000000004,95,0,graduate,2,0,1,0,63.0,,22,40
+14,infectious and parasitic diseases,2008-03-24,,12,14.0,34,343.25300000000004,95,0,high school,2,1,0,0,95.0,196.0,25,16
+20,unjustified absence,2008-03-24,260.0,50,11.0,36,343.25300000000004,95,0,high school,4,1,0,0,65.0,168.0,23,16
+14,muscoskeletal diseases,2010-03-23,155.0,12,14.0,34,343.25300000000004,95,0,high school,2,1,0,0,95.0,196.0,25,8
+11,diseases of the nervous system,2007-03-22,289.0,36,,33,343.25300000000004,95,0,high school,2,1,0,1,90.0,172.0,30,8
+17,diseases of the ear,2010-03-25,,22,17.0,40,343.25300000000004,95,0,graduate,2,0,1,0,63.0,170.0,22,8
+20,dental consultation,2009-03-27,260.0,50,11.0,36,343.25300000000004,95,0,high school,4,1,0,0,65.0,168.0,23,4
+28,medical consultation,2007-03-23,225.0,26,9.0,28,343.25300000000004,95,0,high school,1,0,0,2,69.0,169.0,24,1
+7,genitourinary diseases,2007-03-26,279.0,5,,39,343.25300000000004,95,0,high school,2,1,1,0,,168.0,24,8
+3,muscoskeletal diseases,2009-03-24,,51,18.0,38,343.25300000000004,95,0,high school,0,1,0,0,89.0,170.0,31,24
+28,medical consultation,2009-03-25,225.0,26,,28,343.25300000000004,95,0,high school,1,0,0,2,69.0,,24,2
+28,digestive diseases,2007-03-26,,26,9.0,28,343.25300000000004,95,0,high school,1,0,0,2,69.0,169.0,24,8
+22,muscoskeletal diseases,2008-03-24,179.0,26,9.0,30,343.25300000000004,95,0,postgraduate,0,0,0,0,56.0,171.0,19,1
+28,digestive diseases,2009-03-24,225.0,26,9.0,28,343.25300000000004,95,0,high school,1,0,0,2,69.0,169.0,24,8
+28,digestive diseases,2010-03-24,225.0,26,9.0,28,343.25300000000004,95,0,high school,1,0,0,2,69.0,169.0,24,16
+3,muscoskeletal diseases,2008-03-26,179.0,51,18.0,38,343.25300000000004,95,0,high school,0,1,0,0,89.0,,31,3
+7,genitourinary diseases,2009-03-26,279.0,5,14.0,39,343.25300000000004,95,0,high school,2,1,1,0,68.0,168.0,24,16
+28,dental consultation,2008-03-28,225.0,26,9.0,28,343.25300000000004,95,0,high school,1,0,0,2,69.0,169.0,24,2
+33,genitourinary diseases,2009-03-27,248.0,25,14.0,47,343.25300000000004,95,0,high school,2,0,0,1,86.0,165.0,32,3
+28,dental consultation,2008-03-24,225.0,26,9.0,28,343.25300000000004,95,0,high school,1,0,0,2,69.0,169.0,24,1
+15,dental consultation,2009-04-22,291.0,31,12.0,40,326.452,96,0,high school,1,1,0,1,73.0,171.0,25,1
+28,medical consultation,2007-04-25,225.0,26,,28,326.452,96,0,high school,1,0,0,2,,169.0,24,1
+14,dental consultation,2009-04-28,155.0,12,14.0,34,326.452,96,0,high school,2,1,0,0,,196.0,25,1
+24,muscoskeletal diseases,2010-04-28,,25,,41,326.452,96,0,high school,0,1,0,0,,,23,24
+14,medical consultation,2010-04-22,155.0,12,14.0,34,326.452,96,0,high school,2,1,0,0,95.0,,25,1
+28,dental consultation,2007-04-27,225.0,26,9.0,28,326.452,96,0,high school,1,0,0,2,69.0,,24,2
+20,dental consultation,2007-04-27,,50,11.0,36,326.452,96,0,high school,4,1,0,0,65.0,168.0,23,4
+3,muscoskeletal diseases,2008-04-23,179.0,51,18.0,38,326.452,96,0,high school,0,1,0,0,89.0,170.0,31,24
+36,medical consultation,2008-04-24,118.0,13,18.0,50,326.452,96,0,high school,1,1,0,0,98.0,178.0,31,1
+15,medical consultation,2007-04-27,,31,12.0,40,326.452,96,0,high school,1,1,0,1,73.0,171.0,25,3
+24,genitourinary diseases,2009-04-24,246.0,25,16.0,41,326.452,96,0,high school,0,1,0,0,67.0,170.0,23,8
+15,dental consultation,2009-04-24,291.0,31,12.0,40,326.452,96,0,high school,1,1,0,1,,171.0,25,1
+33,dental consultation,2010-04-23,248.0,25,14.0,47,326.452,96,0,high school,2,0,0,1,,165.0,32,8
+20,"injury, poisoning and other external causes",2007-04-27,260.0,50,,36,326.452,96,0,high school,4,1,0,0,65.0,168.0,23,56
+11,"injury, poisoning and other external causes",2010-04-27,289.0,36,13.0,33,326.452,96,0,high school,2,1,0,1,90.0,172.0,30,8
+14,skin diseases,2009-04-22,155.0,12,14.0,34,326.452,96,0,high school,2,1,0,0,95.0,196.0,25,24
+23,"injury, poisoning and other external causes",2010-04-28,378.0,49,11.0,36,326.452,96,0,high school,2,0,1,4,,174.0,21,8
+11,muscoskeletal diseases,2008-04-24,289.0,36,13.0,33,326.452,96,0,high school,2,1,0,1,90.0,172.0,30,16
+1,diseases of the eye,2009-04-24,,11,,37,326.452,96,0,postgraduate,1,0,0,1,88.0,172.0,29,3
+11,muscoskeletal diseases,2009-05-27,289.0,36,13.0,33,378.884,92,0,high school,2,1,0,1,,172.0,30,8
+14,dental consultation,2010-05-27,155.0,12,,34,378.884,92,0,high school,2,1,0,0,95.0,196.0,25,2
+14,dental consultation,2009-05-25,155.0,12,14.0,34,378.884,92,0,high school,2,1,0,0,95.0,196.0,25,1
+3,abnormal clinical and laboratory findings,2009-05-26,179.0,51,18.0,38,378.884,92,0,high school,0,1,0,0,89.0,170.0,31,8
+28,"injury, poisoning and other external causes",2008-05-27,225.0,26,9.0,28,378.884,92,0,high school,1,0,0,2,69.0,169.0,24,8
+27,diseases of the eye,2010-05-26,184.0,42,7.0,27,378.884,92,0,high school,0,0,0,0,58.0,167.0,21,4
+14,dental consultation,2010-05-24,155.0,12,14.0,34,378.884,92,0,high school,2,1,0,0,95.0,,25,2
+3,skin diseases,2010-05-25,179.0,51,18.0,38,378.884,92,0,high school,0,1,0,0,89.0,170.0,31,1
+11,muscoskeletal diseases,2008-05-28,289.0,36,13.0,33,378.884,92,0,high school,2,1,0,1,90.0,172.0,30,24
+3,digestive diseases,2008-05-27,179.0,51,18.0,38,378.884,92,0,high school,0,1,0,0,89.0,170.0,31,1
+36,muscoskeletal diseases,2009-05-27,118.0,13,18.0,50,378.884,92,0,high school,1,1,0,0,98.0,178.0,31,24
+10,patient follow-up,2009-05-22,361.0,52,3.0,28,378.884,92,0,high school,1,1,0,4,80.0,172.0,27,8
+24,"injury, poisoning and other external causes",2009-06-22,246.0,25,16.0,41,377.55,94,0,high school,0,1,0,0,67.0,170.0,23,8
+10,patient follow-up,2010-06-28,361.0,52,,28,377.55,94,0,high school,1,1,0,4,80.0,172.0,27,8
+24,respiratory diseases,2007-06-26,,25,16.0,41,377.55,94,0,high school,0,1,0,0,67.0,170.0,23,24
+15,medical consultation,2008-06-26,,31,,40,377.55,94,0,high school,1,1,0,1,73.0,171.0,25,4
+24,respiratory diseases,2007-06-22,246.0,25,,41,377.55,94,0,high school,0,1,0,0,67.0,170.0,23,8
+3,digestive diseases,2009-06-22,,51,18.0,38,377.55,94,0,high school,0,1,0,0,89.0,170.0,31,8
+14,medical consultation,2010-06-28,155.0,12,,34,377.55,94,0,high school,2,1,0,0,95.0,196.0,25,4
+24,respiratory diseases,2007-06-25,246.0,25,16.0,41,377.55,94,0,high school,0,1,0,0,67.0,,23,8
+36,muscoskeletal diseases,2009-06-24,118.0,13,,50,377.55,94,0,high school,1,1,0,0,98.0,178.0,31,8
+1,muscoskeletal diseases,2009-06-26,,11,14.0,37,377.55,94,0,postgraduate,1,0,0,1,88.0,172.0,29,16
+36,medical consultation,2007-06-26,118.0,13,18.0,50,377.55,94,0,high school,1,1,0,0,,178.0,31,1
+36,muscoskeletal diseases,2010-06-23,,13,18.0,50,377.55,94,0,high school,1,1,0,0,98.0,178.0,31,80
+23,patient follow-up,2009-06-25,378.0,49,11.0,36,377.55,94,0,high school,2,0,1,4,65.0,174.0,21,8
+3,digestive diseases,2010-06-25,,51,18.0,38,377.55,94,0,high school,0,1,0,0,89.0,,31,2
+32,dental consultation,2007-06-25,289.0,48,29.0,49,377.55,94,0,high school,0,0,0,2,108.0,172.0,36,2
+28,dental consultation,2008-06-26,225.0,26,,28,377.55,94,0,high school,1,0,0,2,69.0,,24,2
+14,"injury, poisoning and other external causes",2009-07-28,155.0,12,14.0,34,275.312,98,0,high school,2,1,0,0,95.0,196.0,25,16
+36,infectious and parasitic diseases,2007-07-25,118.0,13,18.0,50,275.312,98,0,high school,1,1,0,0,,178.0,31,8
+34,mental disorders,2009-07-24,118.0,10,10.0,37,275.312,98,0,high school,0,0,0,0,83.0,,28,8
+34,unjustified absence,2010-07-23,118.0,10,10.0,37,275.312,98,0,high school,0,0,0,0,83.0,,28,4
+18,unjustified absence,2007-07-24,330.0,16,,28,275.312,98,0,graduate,0,0,0,0,84.0,182.0,25,8
+22,abnormal clinical and laboratory findings,2007-07-26,,26,9.0,30,275.312,98,0,postgraduate,0,0,0,0,56.0,171.0,19,8
+14,laboratory examination,2009-07-24,155.0,12,14.0,34,275.312,98,0,high school,2,1,0,0,,196.0,25,2
+18,infectious and parasitic diseases,2007-07-23,330.0,16,,28,275.312,98,0,graduate,0,0,0,0,84.0,,25,8
+18,infectious and parasitic diseases,2008-07-22,330.0,16,4.0,28,275.312,98,0,graduate,0,0,0,0,84.0,182.0,25,8
+30,laboratory examination,2009-07-27,157.0,27,6.0,29,275.312,98,0,high school,0,1,1,0,,185.0,22,3
+10,patient follow-up,2010-07-27,361.0,52,3.0,28,275.312,98,0,high school,1,1,0,4,,172.0,27,8
+11,unjustified absence,2008-07-23,289.0,36,13.0,33,275.312,98,0,high school,2,1,0,1,90.0,172.0,30,8
+3,unjustified absence,2010-07-22,179.0,51,18.0,38,275.312,98,0,high school,0,1,0,0,89.0,,31,8
+11,"injury, poisoning and other external causes",2009-07-27,,36,13.0,33,275.312,98,0,high school,2,1,0,1,,172.0,30,32
+11,"injury, poisoning and other external causes",2008-07-24,,36,13.0,33,275.312,98,0,high school,2,1,0,1,90.0,,30,8
+11,"injury, poisoning and other external causes",2009-08-28,289.0,36,13.0,33,265.615,94,0,high school,2,1,0,1,90.0,172.0,30,8
+30,"injury, poisoning and other external causes",2009-08-28,157.0,27,6.0,29,265.615,94,0,high school,0,1,1,0,75.0,185.0,22,3
+11,medical consultation,2007-08-27,,36,13.0,33,265.615,94,0,high school,2,1,0,1,90.0,172.0,30,1
+9,abnormal clinical and laboratory findings,2007-08-28,,14,16.0,58,265.615,94,0,high school,2,0,0,1,65.0,,22,8
+26,muscoskeletal diseases,2010-08-26,300.0,26,13.0,43,265.615,94,0,high school,2,1,1,1,77.0,175.0,25,1
+26,genitourinary diseases,2009-08-27,300.0,26,,43,265.615,94,0,high school,2,1,1,1,77.0,175.0,25,2
+20,dental consultation,2009-08-28,,50,11.0,36,265.615,94,0,high school,4,1,0,0,65.0,,23,4
+11,medical consultation,2008-08-26,289.0,36,13.0,33,265.615,94,0,high school,2,1,0,1,90.0,172.0,30,4
+33,medical consultation,2007-08-22,248.0,25,14.0,47,265.615,94,0,high school,2,0,0,1,86.0,165.0,32,1
+21,digestive diseases,2007-08-23,268.0,11,8.0,33,265.615,94,0,graduate,0,0,0,0,79.0,178.0,25,8
+22,medical consultation,2008-08-28,179.0,26,9.0,30,265.615,94,0,postgraduate,0,0,0,0,56.0,171.0,19,1
+36,muscoskeletal diseases,2008-08-28,118.0,13,18.0,50,265.615,94,0,high school,1,1,0,0,98.0,178.0,31,3
+33,laboratory examination,2008-08-25,248.0,25,14.0,47,265.615,94,0,high school,2,0,0,1,86.0,,32,2
+1,medical consultation,2008-08-26,235.0,11,14.0,37,265.615,94,0,postgraduate,1,0,0,1,88.0,,29,1
+36,medical consultation,2009-08-27,118.0,13,18.0,50,265.615,94,0,high school,1,1,0,0,98.0,178.0,31,1
+1,"injury, poisoning and other external causes",2009-08-27,235.0,11,14.0,37,265.615,94,0,postgraduate,1,0,0,1,88.0,172.0,29,8
+10,diseases of the ear,2010-08-24,361.0,52,3.0,28,265.615,94,0,high school,1,1,0,4,80.0,172.0,27,8
+27,diseases of the nervous system,2009-08-26,184.0,42,7.0,27,265.615,94,0,high school,0,0,0,0,58.0,167.0,21,8
+3,digestive diseases,2007-09-24,179.0,51,18.0,38,294.217,81,0,high school,0,1,0,0,89.0,170.0,31,8
+3,medical consultation,2008-09-26,,51,18.0,38,294.217,81,0,high school,0,1,0,0,89.0,,31,3
+11,"injury, poisoning and other external causes",2009-09-23,289.0,36,13.0,33,294.217,81,0,high school,2,1,0,1,90.0,172.0,30,24
+24,circulatory diseases,2008-09-22,246.0,25,16.0,41,294.217,81,0,high school,0,1,0,0,67.0,170.0,23,16
+15,dental consultation,2009-09-22,291.0,31,12.0,40,294.217,81,0,high school,1,1,0,1,73.0,171.0,25,3
+3,muscoskeletal diseases,2010-09-22,179.0,51,,38,294.217,81,0,high school,0,1,0,0,89.0,170.0,31,8
+24,circulatory diseases,2008-09-24,,25,16.0,41,294.217,81,0,high school,0,1,0,0,67.0,,23,32
+3,medical consultation,2010-09-23,179.0,51,18.0,38,294.217,81,0,high school,0,1,0,0,89.0,170.0,31,1
+15,dental consultation,2009-09-25,,31,,40,294.217,81,0,high school,1,1,0,1,,171.0,25,4
+20,dental consultation,2009-09-25,260.0,50,11.0,36,294.217,81,0,high school,4,1,0,0,65.0,168.0,23,4
+5,unjustified absence,2010-09-22,235.0,20,13.0,43,294.217,81,0,high school,1,1,0,0,106.0,167.0,38,8
+36,dental consultation,2008-09-25,118.0,13,18.0,50,294.217,81,0,high school,1,1,0,0,98.0,178.0,31,1
+15,dental consultation,2010-09-24,,31,12.0,40,294.217,81,0,high school,1,1,0,1,73.0,171.0,25,3
+15,diseases of the eye,2007-09-24,291.0,31,,40,294.217,81,0,high school,1,1,0,1,73.0,,25,40
+3,muscoskeletal diseases,2007-09-24,179.0,51,18.0,38,294.217,81,0,high school,0,1,0,0,89.0,170.0,31,8
+11,blood donation,2008-10-27,289.0,36,,33,265.017,88,0,high school,2,1,0,1,90.0,172.0,30,8
+1,unjustified absence,2010-10-25,235.0,11,14.0,37,265.017,88,0,postgraduate,1,0,0,1,88.0,172.0,29,4
+11,unjustified absence,2010-10-25,,36,13.0,33,265.017,88,0,high school,2,1,0,1,90.0,172.0,30,8
+11,patient follow-up,2007-10-26,289.0,36,13.0,33,265.017,88,0,high school,2,1,0,1,90.0,172.0,30,8
+22,infectious and parasitic diseases,2010-10-25,179.0,26,9.0,30,265.017,88,0,postgraduate,0,0,0,0,56.0,171.0,19,8
+34,diseases of the eye,2008-10-27,118.0,10,10.0,37,265.017,88,0,high school,0,0,0,0,83.0,172.0,28,3
+13,patient follow-up,2009-10-26,369.0,17,12.0,31,265.017,88,0,high school,3,1,0,0,70.0,169.0,25,8
+3,dental consultation,2009-10-28,179.0,51,18.0,38,265.017,88,0,high school,0,1,0,0,89.0,170.0,31,1
+22,infectious and parasitic diseases,2008-10-22,179.0,26,9.0,30,265.017,88,0,postgraduate,0,0,0,0,56.0,171.0,19,64
+11,"injury, poisoning and other external causes",2009-10-22,289.0,36,13.0,33,265.017,88,0,high school,2,1,0,1,,172.0,30,16
+20,dental consultation,2007-10-26,,50,11.0,36,265.017,88,0,high school,4,1,0,0,65.0,168.0,23,3
+5,medical consultation,2008-10-27,235.0,20,13.0,43,265.017,88,0,high school,1,1,0,0,106.0,167.0,38,2
+5,medical consultation,2008-10-27,,20,13.0,43,265.017,88,0,high school,1,1,0,0,106.0,167.0,38,2
+36,dental consultation,2007-10-23,118.0,13,18.0,50,265.017,88,0,high school,1,1,0,0,98.0,178.0,31,1
+15,dental consultation,2008-10-28,291.0,31,12.0,40,265.017,88,0,high school,1,1,0,1,73.0,171.0,25,4
+22,medical consultation,2008-10-23,,26,9.0,30,265.017,88,0,postgraduate,0,0,0,0,56.0,171.0,19,16
+36,dental consultation,2008-10-23,118.0,13,18.0,50,265.017,88,0,high school,1,1,0,0,98.0,178.0,31,1
+10,respiratory diseases,2009-10-26,361.0,52,3.0,28,265.017,88,0,high school,1,1,0,4,,172.0,27,8
+22,infectious and parasitic diseases,2009-10-28,179.0,26,9.0,30,265.017,88,0,postgraduate,0,0,0,0,56.0,171.0,19,5
+22,diseases of the eye,2009-10-28,179.0,26,9.0,30,265.017,88,0,postgraduate,0,0,0,0,,171.0,19,5
+36,medical consultation,2007-10-25,118.0,13,18.0,50,265.017,88,0,high school,1,1,0,0,98.0,,31,1
+34,digestive diseases,2007-11-26,118.0,10,10.0,37,284.031,97,0,high school,0,0,0,0,83.0,172.0,28,8
+33,medical consultation,2010-11-22,248.0,25,,47,284.031,97,0,high school,2,0,0,1,,165.0,32,2
+3,diseases of the nervous system,2009-11-24,179.0,51,,38,284.031,97,0,high school,0,1,0,0,89.0,170.0,31,8
+20,dental consultation,2010-11-26,260.0,50,11.0,36,284.031,97,0,high school,4,1,0,0,65.0,168.0,23,3
+15,medical consultation,2009-11-23,291.0,31,12.0,40,284.031,97,0,high school,1,1,0,1,73.0,,25,1
+23,infectious and parasitic diseases,2008-11-24,378.0,49,11.0,36,284.031,97,0,high school,2,0,1,4,65.0,174.0,21,8
+14,digestive diseases,2007-11-26,155.0,12,14.0,34,284.031,97,0,high school,2,1,0,0,,,25,120
+5,unjustified absence,2009-11-23,,20,13.0,43,284.031,97,0,high school,1,1,0,0,106.0,167.0,38,8
+1,abnormal clinical and laboratory findings,2010-11-24,235.0,11,14.0,37,284.031,97,0,postgraduate,1,0,0,1,88.0,172.0,29,1
+34,digestive diseases,2007-11-28,118.0,10,10.0,37,284.031,97,0,high school,0,0,0,0,83.0,172.0,28,3
+1,laboratory examination,2008-11-27,235.0,11,14.0,37,284.031,97,0,postgraduate,1,0,0,1,88.0,172.0,29,2
+3,dental consultation,2009-11-26,179.0,51,18.0,38,284.031,97,0,high school,0,1,0,0,89.0,170.0,31,3
+24,muscoskeletal diseases,2010-11-26,246.0,25,16.0,41,284.031,97,0,high school,0,1,0,0,67.0,170.0,23,8
+15,skin diseases,2009-11-27,291.0,31,,40,284.031,97,0,high school,1,1,0,1,73.0,171.0,25,4
+24,muscoskeletal diseases,2008-11-24,246.0,25,16.0,41,284.031,97,0,high school,0,1,0,0,67.0,,23,8
+3,dental consultation,2007-11-27,179.0,51,18.0,38,284.031,97,0,high school,0,1,0,0,,170.0,31,1
+20,respiratory diseases,2008-11-26,260.0,50,,36,284.031,97,0,high school,4,1,0,0,,168.0,23,8
+20,"pregnancy, childbirth and the peurperium",2007-11-23,260.0,50,11.0,36,284.031,97,0,high school,4,1,0,0,65.0,168.0,23,8
+3,medical consultation,2008-11-27,179.0,51,18.0,38,284.031,97,0,high school,0,1,0,0,89.0,,31,1
+28,skin diseases,2008-12-22,225.0,26,9.0,28,236.62900000000002,93,0,high school,1,0,0,2,,169.0,24,3
+3,dental consultation,2007-12-24,,51,18.0,38,236.62900000000002,93,0,high school,0,1,0,0,,170.0,31,2
+3,dental consultation,2007-12-24,179.0,51,18.0,38,236.62900000000002,93,0,high school,0,1,0,0,89.0,170.0,31,1
+1,medical consultation,2007-12-24,235.0,11,14.0,37,236.62900000000002,93,0,postgraduate,1,0,0,1,88.0,172.0,29,3
+36,dental consultation,2010-12-28,118.0,13,18.0,50,236.62900000000002,93,0,high school,1,1,0,0,98.0,178.0,31,1
+20,dental consultation,2007-12-28,260.0,50,11.0,36,236.62900000000002,93,0,high school,4,1,0,0,65.0,168.0,23,4
+24,"endocrine, nutritional and metabolic diseases",2007-12-27,246.0,25,16.0,41,236.62900000000002,93,0,high school,0,1,0,0,67.0,,23,8
+3,dental consultation,2007-12-27,179.0,51,18.0,38,236.62900000000002,93,0,high school,0,1,0,0,,170.0,31,1
+3,dental consultation,2010-12-24,179.0,51,18.0,38,236.62900000000002,93,0,high school,0,1,0,0,89.0,170.0,31,1
+22,medical consultation,2010-12-28,179.0,26,9.0,30,236.62900000000002,93,0,postgraduate,0,0,0,0,56.0,,19,1
+34,laboratory examination,2009-12-22,118.0,10,,37,236.62900000000002,93,0,high school,0,0,0,0,83.0,172.0,28,8
+1,laboratory examination,2007-12-27,235.0,11,,37,236.62900000000002,93,0,postgraduate,1,0,0,1,88.0,172.0,29,2
+3,dental consultation,2008-12-26,179.0,51,,38,236.62900000000002,93,0,high school,0,1,0,0,89.0,170.0,31,1
+5,muscoskeletal diseases,2007-12-25,235.0,20,13.0,43,236.62900000000002,93,0,high school,1,1,0,0,106.0,167.0,38,8
+1,genitourinary diseases,2009-12-22,235.0,11,14.0,37,236.62900000000002,93,0,postgraduate,1,0,0,1,,172.0,29,4
+20,unjustified absence,2009-12-23,260.0,50,11.0,36,236.62900000000002,93,0,high school,4,1,0,0,65.0,168.0,23,8
+30,dental consultation,2009-12-28,157.0,27,6.0,29,236.62900000000002,93,0,high school,0,1,1,0,75.0,185.0,22,2
+3,dental consultation,2009-12-28,179.0,51,,38,236.62900000000002,93,0,high school,0,1,0,0,89.0,170.0,31,3
+11,"injury, poisoning and other external causes",2008-12-22,289.0,36,13.0,33,236.62900000000002,93,0,high school,2,1,0,1,,172.0,30,8
+28,medical consultation,2007-01-24,225.0,26,9.0,28,330.061,100,0,high school,1,0,0,2,69.0,169.0,24,5
+34,"injury, poisoning and other external causes",2010-01-25,118.0,10,,37,330.061,100,0,high school,0,0,0,0,83.0,,28,32
+14,medical consultation,2010-01-25,155.0,12,14.0,34,330.061,100,0,high school,2,1,0,0,95.0,196.0,25,2
+1,muscoskeletal diseases,2009-01-27,235.0,11,14.0,37,330.061,100,0,postgraduate,1,0,0,1,88.0,172.0,29,1
+14,medical consultation,2008-01-22,155.0,12,14.0,34,330.061,100,0,high school,2,1,0,0,95.0,196.0,25,4
+11,unjustified absence,2007-01-22,289.0,36,13.0,33,330.061,100,0,high school,2,1,0,1,90.0,172.0,30,8
+15,blood and immune diseases,2009-01-28,291.0,31,12.0,40,330.061,100,0,high school,1,1,0,1,73.0,,25,8
+5,unjustified absence,2010-01-25,235.0,20,13.0,43,330.061,100,0,high school,1,1,0,0,106.0,167.0,38,8
+36,unjustified absence,2008-01-28,,13,18.0,50,330.061,100,0,high school,1,1,0,0,,,31,4
+3,dental consultation,2009-01-28,179.0,51,18.0,38,330.061,100,0,high school,0,1,0,0,89.0,170.0,31,1
+3,dental consultation,2009-01-23,179.0,51,18.0,38,330.061,100,0,high school,0,1,0,0,89.0,,31,1
+34,dental consultation,2009-02-24,118.0,10,10.0,37,251.81799999999998,96,0,high school,0,0,0,0,83.0,172.0,28,2
+3,physiotherapy,2008-02-27,179.0,51,18.0,38,251.81799999999998,96,0,high school,0,1,0,0,89.0,170.0,31,3
+28,diseases of the eye,2008-02-27,225.0,26,9.0,28,251.81799999999998,96,0,high school,1,0,0,2,69.0,169.0,24,1
+11,patient follow-up,2007-02-23,289.0,36,13.0,33,251.81799999999998,96,0,high school,2,1,0,1,90.0,172.0,30,3
+20,dental consultation,2007-02-23,260.0,50,,36,251.81799999999998,96,0,high school,4,1,0,0,65.0,,23,3
+3,medical consultation,2008-02-22,179.0,51,,38,251.81799999999998,96,0,high school,0,1,0,0,,170.0,31,3
+3,physiotherapy,2007-02-26,179.0,51,18.0,38,251.81799999999998,96,0,high school,0,1,0,0,,170.0,31,2
+3,physiotherapy,2008-02-27,179.0,51,,38,251.81799999999998,96,0,high school,0,1,0,0,89.0,170.0,31,3
+3,respiratory diseases,2007-02-22,179.0,51,18.0,38,251.81799999999998,96,0,high school,0,1,0,0,89.0,170.0,31,8
+24,unjustified absence,2009-02-26,246.0,25,16.0,41,251.81799999999998,96,0,high school,0,1,0,0,67.0,,23,8
+3,physiotherapy,2007-02-23,,51,18.0,38,251.81799999999998,96,0,high school,0,1,0,0,89.0,170.0,31,3
+6,patient follow-up,2009-02-23,189.0,29,13.0,33,251.81799999999998,96,0,high school,2,0,0,2,,167.0,25,8
+3,physiotherapy,2009-02-23,179.0,51,18.0,38,251.81799999999998,96,0,high school,0,1,0,0,89.0,170.0,31,3
+24,medical consultation,2010-02-23,,25,16.0,41,251.81799999999998,96,0,high school,0,1,0,0,67.0,170.0,23,2
+15,medical consultation,2010-02-23,,31,12.0,40,251.81799999999998,96,0,high school,1,1,0,1,73.0,171.0,25,2
+30,digestive diseases,2007-02-28,157.0,27,6.0,29,251.81799999999998,96,0,high school,0,1,1,0,75.0,185.0,22,16
+3,physiotherapy,2009-02-25,,51,18.0,38,251.81799999999998,96,0,high school,0,1,0,0,,170.0,31,3
+3,physiotherapy,2007-02-23,179.0,51,18.0,38,251.81799999999998,96,0,high school,0,1,0,0,89.0,170.0,31,3
+24,respiratory diseases,2010-02-26,246.0,25,16.0,41,251.81799999999998,96,0,high school,0,1,0,0,67.0,170.0,23,24
+3,physiotherapy,2007-02-28,179.0,51,,38,251.81799999999998,96,0,high school,0,1,0,0,,170.0,31,3
+3,physiotherapy,2009-02-27,179.0,51,18.0,38,251.81799999999998,96,0,high school,0,1,0,0,89.0,170.0,31,3
+34,abnormal clinical and laboratory findings,2010-03-23,118.0,10,10.0,37,244.387,98,0,high school,0,0,0,0,83.0,,28,8
+24,"injury, poisoning and other external causes",2008-03-26,246.0,25,16.0,41,244.387,98,0,high school,0,1,0,0,67.0,170.0,23,16
+24,dental consultation,2009-03-27,246.0,25,16.0,41,244.387,98,0,high school,0,1,0,0,67.0,170.0,23,2
+20,dental consultation,2009-03-27,260.0,50,11.0,36,244.387,98,0,high school,4,1,0,0,,168.0,23,4
+3,dental consultation,2009-03-23,,51,18.0,38,244.387,98,0,high school,0,1,0,0,89.0,170.0,31,2
+1,patient follow-up,2009-03-23,235.0,11,,37,244.387,98,0,postgraduate,1,0,0,1,88.0,172.0,29,8
+17,patient follow-up,2007-03-27,179.0,22,17.0,40,244.387,98,0,graduate,2,0,1,0,63.0,170.0,22,8
+23,patient follow-up,2007-03-27,378.0,49,,36,244.387,98,0,high school,2,0,1,4,65.0,174.0,21,8
+3,dental consultation,2008-03-24,179.0,51,18.0,38,244.387,98,0,high school,0,1,0,0,89.0,170.0,31,16
+10,patient follow-up,2009-03-25,361.0,52,3.0,28,244.387,98,0,high school,1,1,0,4,80.0,172.0,27,8
+1,factors influencing health status,2009-03-26,,11,14.0,37,244.387,98,0,postgraduate,1,0,0,1,88.0,172.0,29,8
+36,medical consultation,2008-03-28,,13,18.0,50,244.387,98,0,high school,1,1,0,0,,178.0,31,2
+36,genitourinary diseases,2008-03-25,118.0,13,18.0,50,244.387,98,0,high school,1,1,0,0,98.0,178.0,31,3
+36,muscoskeletal diseases,2007-03-28,118.0,13,,50,244.387,98,0,high school,1,1,0,0,,178.0,31,8
+3,dental consultation,2008-03-28,179.0,51,18.0,38,244.387,98,0,high school,0,1,0,0,,170.0,31,8
+11,patient follow-up,2009-03-27,,36,13.0,33,244.387,98,0,high school,2,1,0,1,90.0,,30,8
+20,"injury, poisoning and other external causes",2010-03-22,260.0,50,11.0,36,244.387,98,0,high school,4,1,0,0,65.0,168.0,23,8
+24,dental consultation,2010-03-23,,25,16.0,41,244.387,98,0,high school,0,1,0,0,67.0,170.0,23,2
+3,dental consultation,2010-04-28,,51,,38,239.40900000000002,98,0,high school,0,1,0,0,89.0,170.0,31,4
+20,dental consultation,2009-04-24,260.0,50,11.0,36,239.40900000000002,98,0,high school,4,1,0,0,65.0,168.0,23,3
+18,unjustified absence,2010-04-23,330.0,16,,28,239.40900000000002,98,0,graduate,0,0,0,0,84.0,182.0,25,4
+13,patient follow-up,2007-04-23,,17,12.0,31,239.40900000000002,98,0,high school,3,1,0,0,70.0,169.0,25,4
+33,unjustified absence,2009-04-27,248.0,25,14.0,47,239.40900000000002,98,0,high school,2,0,0,1,86.0,165.0,32,4
+18,medical consultation,2007-04-25,,16,4.0,28,239.40900000000002,98,0,graduate,0,0,0,0,84.0,182.0,25,8
+3,dental consultation,2007-04-25,179.0,51,18.0,38,239.40900000000002,98,0,high school,0,1,0,0,89.0,170.0,31,8
+36,medical consultation,2010-04-26,118.0,13,18.0,50,239.40900000000002,98,0,high school,1,1,0,0,,178.0,31,1
+36,muscoskeletal diseases,2010-04-28,118.0,13,18.0,50,239.40900000000002,98,0,high school,1,1,0,0,,,31,120
+26,dental consultation,2007-04-27,300.0,26,,43,239.40900000000002,98,0,high school,2,1,1,1,,175.0,25,8
+20,dental consultation,2010-04-23,260.0,50,11.0,36,239.40900000000002,98,0,high school,4,1,0,0,65.0,168.0,23,4
+3,dental consultation,2009-04-27,179.0,51,18.0,38,239.40900000000002,98,0,high school,0,1,0,0,,170.0,31,4
+34,digestive diseases,2008-04-23,118.0,10,10.0,37,239.40900000000002,98,0,high school,0,0,0,0,83.0,172.0,28,2
+5,muscoskeletal diseases,2010-05-24,,20,13.0,43,246.074,99,0,high school,1,1,0,0,106.0,167.0,38,16
+33,medical consultation,2009-05-27,248.0,25,14.0,47,246.074,99,0,high school,2,0,0,1,86.0,165.0,32,2
+13,respiratory diseases,2007-05-28,,17,12.0,31,246.074,99,0,high school,3,1,0,0,70.0,169.0,25,8
+22,medical consultation,2007-05-23,179.0,26,9.0,30,246.074,99,0,postgraduate,0,0,0,0,56.0,171.0,19,3
+3,dental consultation,2007-05-23,179.0,51,18.0,38,246.074,99,0,high school,0,1,0,0,,170.0,31,4
+10,medical consultation,2008-05-22,361.0,52,3.0,28,246.074,99,0,high school,1,1,0,4,,172.0,27,1
+20,dental consultation,2007-05-25,,50,11.0,36,246.074,99,0,high school,4,1,0,0,,,23,3
+17,digestive diseases,2010-05-24,179.0,22,17.0,40,246.074,99,0,graduate,2,0,1,0,,170.0,22,2
+17,diseases of the ear,2010-05-24,,22,17.0,40,246.074,99,0,graduate,2,0,1,0,63.0,170.0,22,3
+9,abnormal clinical and laboratory findings,2007-05-23,228.0,14,16.0,58,246.074,99,0,high school,2,0,0,1,65.0,172.0,22,8
+28,laboratory examination,2010-05-26,225.0,26,9.0,28,246.074,99,0,high school,1,0,0,2,69.0,,24,3
+18,muscoskeletal diseases,2008-05-23,,16,4.0,28,246.074,99,0,graduate,0,0,0,0,84.0,182.0,25,8
+22,laboratory examination,2008-05-26,179.0,26,9.0,30,246.074,99,0,postgraduate,0,0,0,0,56.0,171.0,19,2
+34,dental consultation,2009-05-25,118.0,10,,37,246.074,99,0,high school,0,0,0,0,,172.0,28,1
+1,infectious and parasitic diseases,2010-05-24,235.0,11,14.0,37,246.074,99,0,postgraduate,1,0,0,1,88.0,172.0,29,8
+22,medical consultation,2007-05-23,179.0,26,9.0,30,246.074,99,0,postgraduate,0,0,0,0,56.0,171.0,19,3
+34,medical consultation,2009-06-22,118.0,10,10.0,37,253.957,95,0,high school,0,0,0,0,83.0,172.0,28,3
+3,dental consultation,2008-06-23,179.0,51,18.0,38,253.957,95,0,high school,0,1,0,0,89.0,,31,3
+34,dental consultation,2009-06-23,118.0,10,10.0,37,253.957,95,0,high school,0,0,0,0,,172.0,28,2
+28,medical consultation,2010-06-24,225.0,26,9.0,28,253.957,95,0,high school,1,0,0,2,69.0,169.0,24,4
+20,dental consultation,2010-06-25,260.0,50,11.0,36,253.957,95,0,high school,4,1,0,0,65.0,168.0,23,4
+15,muscoskeletal diseases,2007-06-25,291.0,31,12.0,40,253.957,95,0,high school,1,1,0,1,73.0,171.0,25,40
+3,dental consultation,2010-06-28,179.0,51,18.0,38,253.957,95,0,high school,0,1,0,0,89.0,170.0,31,24
+24,dental consultation,2010-06-22,,25,16.0,41,253.957,95,0,high school,0,1,0,0,67.0,170.0,23,3
+3,dental consultation,2007-06-25,179.0,51,18.0,38,253.957,95,0,high school,0,1,0,0,89.0,170.0,31,4
+5,unjustified absence,2007-06-26,235.0,20,13.0,43,253.957,95,0,high school,1,1,0,0,106.0,,38,8
+3,dental consultation,2008-06-23,179.0,51,18.0,38,253.957,95,0,high school,0,1,0,0,,170.0,31,2
+28,medical consultation,2007-06-27,,26,9.0,28,253.957,95,0,high school,1,0,0,2,69.0,169.0,24,2
+36,medical consultation,2009-06-24,118.0,13,18.0,50,253.957,95,0,high school,1,1,0,0,,178.0,31,2
+3,mental disorders,2008-06-25,179.0,51,,38,253.957,95,0,high school,0,1,0,0,89.0,170.0,31,8
+22,factors influencing health status,2009-06-24,179.0,26,9.0,30,253.957,95,0,postgraduate,0,0,0,0,56.0,171.0,19,2
+24,dental consultation,2008-06-27,246.0,25,16.0,41,253.957,95,0,high school,0,1,0,0,67.0,,23,2
+18,digestive diseases,2009-06-23,330.0,16,4.0,28,253.957,95,0,graduate,0,0,0,0,,,25,1
+1,muscoskeletal diseases,2010-06-22,235.0,11,14.0,37,253.957,95,0,postgraduate,1,0,0,1,88.0,,29,8
+22,medical consultation,2008-07-24,179.0,26,9.0,30,230.29,92,0,postgraduate,0,0,0,0,,171.0,19,2
+28,laboratory examination,2008-07-24,225.0,26,,28,230.29,92,0,high school,1,0,0,2,69.0,169.0,24,4
+20,muscoskeletal diseases,2008-07-25,260.0,50,11.0,36,230.29,92,0,high school,4,1,0,0,65.0,,23,8
+21,diseases of the eye,2007-07-23,268.0,11,8.0,33,230.29,92,0,graduate,0,0,0,0,79.0,178.0,25,8
+18,laboratory examination,2009-07-24,330.0,16,4.0,28,230.29,92,0,graduate,0,0,0,0,84.0,,25,8
+34,unjustified absence,2008-07-25,,10,,37,230.29,92,0,high school,0,0,0,0,,172.0,28,8
+20,unjustified absence,2009-07-27,260.0,50,11.0,36,230.29,92,0,high school,4,1,0,0,65.0,168.0,23,4
+34,dental consultation,2010-07-27,118.0,10,,37,230.29,92,0,high school,0,0,0,0,83.0,172.0,28,8
+26,"pregnancy, childbirth and the peurperium",2009-07-27,300.0,26,13.0,43,230.29,92,0,high school,2,1,1,1,77.0,175.0,25,8
+2,medical consultation,2010-07-26,,29,,48,230.29,92,0,high school,1,0,1,5,88.0,163.0,33,1
+24,dental consultation,2010-07-27,246.0,25,16.0,41,230.29,92,0,high school,0,1,0,0,67.0,170.0,23,2
+28,circulatory diseases,2008-07-22,225.0,26,9.0,28,230.29,92,0,high school,1,0,0,2,69.0,169.0,24,112
+3,dental consultation,2008-07-22,179.0,51,18.0,38,230.29,92,0,high school,0,1,0,0,,170.0,31,1
+36,medical consultation,2009-07-24,118.0,13,18.0,50,230.29,92,0,high school,1,1,0,0,98.0,178.0,31,1
+10,patient follow-up,2008-07-25,361.0,52,3.0,28,230.29,92,0,high school,1,1,0,4,80.0,172.0,27,8
+11,patient follow-up,2007-07-23,289.0,36,13.0,33,230.29,92,0,high school,2,1,0,1,90.0,172.0,30,8
+5,unjustified absence,2008-07-28,,20,13.0,43,230.29,92,0,high school,1,1,0,0,106.0,,38,8
+24,dental consultation,2009-07-28,246.0,25,16.0,41,230.29,92,0,high school,0,1,0,0,67.0,,23,2
+15,dental consultation,2009-07-23,291.0,31,12.0,40,230.29,92,0,high school,1,1,0,1,,,25,1
+7,medical consultation,2007-07-26,279.0,5,14.0,39,230.29,92,0,high school,2,1,1,0,68.0,168.0,24,2
+3,laboratory examination,2008-08-28,179.0,51,18.0,38,249.797,93,0,high school,0,1,0,0,89.0,170.0,31,4
+17,laboratory examination,2009-08-24,179.0,22,17.0,40,249.797,93,0,graduate,2,0,1,0,63.0,,22,1
+24,dental consultation,2008-08-26,246.0,25,16.0,41,249.797,93,0,high school,0,1,0,0,,170.0,23,4
+34,dental consultation,2009-08-25,118.0,10,,37,249.797,93,0,high school,0,0,0,0,83.0,,28,4
+11,unjustified absence,2008-08-26,289.0,36,13.0,33,249.797,93,0,high school,2,1,0,1,,172.0,30,8
+5,unjustified absence,2010-08-24,,20,13.0,43,249.797,93,0,high school,1,1,0,0,106.0,167.0,38,8
+15,dental consultation,2009-08-27,291.0,31,12.0,40,249.797,93,0,high school,1,1,0,1,73.0,171.0,25,4
+3,laboratory examination,2010-08-23,179.0,51,18.0,38,249.797,93,0,high school,0,1,0,0,89.0,170.0,31,4
+17,laboratory examination,2008-08-26,179.0,22,17.0,40,249.797,93,0,graduate,2,0,1,0,63.0,170.0,22,8
+18,medical consultation,2009-08-27,330.0,16,4.0,28,249.797,93,0,graduate,0,0,0,0,84.0,182.0,25,16
+1,medical consultation,2010-08-24,235.0,11,14.0,37,249.797,93,0,postgraduate,1,0,0,1,88.0,,29,4
+24,dental consultation,2010-08-24,,25,16.0,41,249.797,93,0,high school,0,1,0,0,67.0,170.0,23,1
+34,dental consultation,2009-08-25,118.0,10,10.0,37,249.797,93,0,high school,0,0,0,0,83.0,172.0,28,5
+15,dental consultation,2008-08-28,,31,12.0,40,249.797,93,0,high school,1,1,0,1,73.0,,25,2
+20,dental consultation,2009-08-24,260.0,50,11.0,36,249.797,93,0,high school,4,1,0,0,65.0,168.0,23,3
+24,dental consultation,2008-09-23,246.0,25,16.0,41,261.756,87,0,high school,0,1,0,0,67.0,170.0,23,1
+24,dental consultation,2009-09-22,,25,16.0,41,261.756,87,0,high school,0,1,0,0,67.0,,23,1
+34,dental consultation,2010-09-28,118.0,10,10.0,37,261.756,87,0,high school,0,0,0,0,83.0,172.0,28,3
+14,medical consultation,2010-09-28,155.0,12,14.0,34,261.756,87,0,high school,2,1,0,0,95.0,196.0,25,2
+15,dental consultation,2010-09-23,291.0,31,12.0,40,261.756,87,0,high school,1,1,0,1,,171.0,25,2
+22,medical consultation,2008-09-26,179.0,26,9.0,30,261.756,87,0,postgraduate,0,0,0,0,56.0,171.0,19,8
+33,medical consultation,2009-09-25,248.0,25,14.0,47,261.756,87,0,high school,2,0,0,1,86.0,165.0,32,1
+3,medical consultation,2010-09-27,179.0,51,,38,261.756,87,0,high school,0,1,0,0,,170.0,31,4
+28,medical consultation,2009-09-23,225.0,26,9.0,28,261.756,87,0,high school,1,0,0,2,69.0,169.0,24,1
+22,medical consultation,2010-09-27,,26,9.0,30,261.756,87,0,postgraduate,0,0,0,0,56.0,,19,2
+13,medical consultation,2008-09-23,369.0,17,12.0,31,261.756,87,0,high school,3,1,0,0,70.0,169.0,25,8
+10,patient follow-up,2009-09-22,361.0,52,3.0,28,261.756,87,0,high school,1,1,0,4,80.0,172.0,27,8
+32,"endocrine, nutritional and metabolic diseases",2010-10-28,,48,29.0,49,284.853,91,0,high school,0,0,0,2,,172.0,36,1
+25,digestive diseases,2007-10-25,235.0,16,8.0,32,284.853,91,0,postgraduate,0,0,0,0,75.0,178.0,25,3
+24,unjustified absence,2008-10-24,,25,16.0,41,284.853,91,0,high school,0,1,0,0,67.0,170.0,23,8
+32,genitourinary diseases,2007-10-24,,48,29.0,49,284.853,91,0,high school,0,0,0,2,108.0,172.0,36,3
+15,dental consultation,2007-10-24,291.0,31,12.0,40,284.853,91,0,high school,1,1,0,1,,171.0,25,2
+34,medical consultation,2009-10-27,118.0,10,10.0,37,284.853,91,0,high school,0,0,0,0,83.0,172.0,28,2
+32,medical consultation,2008-10-23,289.0,48,29.0,49,284.853,91,0,high school,0,0,0,2,,172.0,36,2
+15,medical consultation,2010-10-22,291.0,31,,40,284.853,91,0,high school,1,1,0,1,73.0,171.0,25,1
+28,medical consultation,2008-10-28,225.0,26,,28,284.853,91,0,high school,1,0,0,2,69.0,169.0,24,2
+13,medical consultation,2008-10-28,,17,12.0,31,284.853,91,0,high school,3,1,0,0,70.0,169.0,25,8
+13,medical consultation,2009-10-27,369.0,17,12.0,31,284.853,91,0,high school,3,1,0,0,70.0,,25,3
+28,medical consultation,2009-10-27,225.0,26,9.0,28,284.853,91,0,high school,1,0,0,2,69.0,169.0,24,4
+13,unjustified absence,2010-10-26,369.0,17,,31,284.853,91,0,high school,3,1,0,0,70.0,,25,8
+3,dental consultation,2009-10-28,179.0,51,,38,284.853,91,0,high school,0,1,0,0,,170.0,31,3
+9,infectious and parasitic diseases,2009-10-28,228.0,14,16.0,58,284.853,91,0,high school,2,0,0,1,65.0,172.0,22,1
+15,medical consultation,2009-10-28,291.0,31,12.0,40,284.853,91,0,high school,1,1,0,1,73.0,171.0,25,1
+13,respiratory diseases,2010-10-28,369.0,17,12.0,31,284.853,91,0,high school,3,1,0,0,70.0,169.0,25,8
+28,muscoskeletal diseases,2008-10-23,225.0,26,9.0,28,284.853,91,0,high school,1,0,0,2,69.0,169.0,24,1
+13,respiratory diseases,2008-10-24,369.0,17,12.0,31,284.853,91,0,high school,3,1,0,0,70.0,,25,8
+28,respiratory diseases,2009-10-23,,26,9.0,28,284.853,91,0,high school,1,0,0,2,69.0,169.0,24,3
+6,medical consultation,2010-10-25,189.0,29,,33,284.853,91,0,high school,2,0,0,2,,167.0,25,8
+25,diseases of the nervous system,2008-10-27,235.0,16,8.0,32,284.853,91,0,postgraduate,0,0,0,0,75.0,178.0,25,8
+33,respiratory diseases,2009-10-26,248.0,25,,47,284.853,91,0,high school,2,0,0,1,,165.0,32,8
+28,muscoskeletal diseases,2009-10-27,225.0,26,9.0,28,284.853,91,0,high school,1,0,0,2,69.0,169.0,24,3
+3,factors influencing health status,2007-11-27,179.0,51,18.0,38,268.519,93,0,high school,0,1,0,0,89.0,170.0,31,1
+34,dental consultation,2008-11-26,118.0,10,10.0,37,268.519,93,0,high school,0,0,0,0,83.0,172.0,28,3
+18,neoplasm,2009-11-25,330.0,16,4.0,28,268.519,93,0,graduate,0,0,0,0,,182.0,25,24
+3,dental consultation,2010-11-26,179.0,51,18.0,38,268.519,93,0,high school,0,1,0,0,89.0,170.0,31,1
+34,circulatory diseases,2010-11-23,,10,,37,268.519,93,0,high school,0,0,0,0,,172.0,28,8
+11,blood donation,2007-11-28,,36,13.0,33,268.519,93,0,high school,2,1,0,1,90.0,172.0,30,8
+25,infectious and parasitic diseases,2007-11-23,235.0,16,8.0,32,268.519,93,0,postgraduate,0,0,0,0,75.0,,25,8
+28,medical consultation,2007-11-23,225.0,26,9.0,28,268.519,93,0,high school,1,0,0,2,,,24,4
+10,patient follow-up,2010-11-23,361.0,52,3.0,28,268.519,93,0,high school,1,1,0,4,80.0,,27,8
+15,dental consultation,2008-11-26,291.0,31,12.0,40,268.519,93,0,high school,1,1,0,1,73.0,,25,2
+34,muscoskeletal diseases,2009-11-26,118.0,10,10.0,37,268.519,93,0,high school,0,0,0,0,83.0,172.0,28,2
+28,genitourinary diseases,2010-11-25,225.0,26,9.0,28,268.519,93,0,high school,1,0,0,2,69.0,169.0,24,3
+3,dental consultation,2010-11-22,179.0,51,18.0,38,268.519,93,0,high school,0,1,0,0,89.0,,31,1
+34,medical consultation,2009-11-23,118.0,10,10.0,37,268.519,93,0,high school,0,0,0,0,83.0,172.0,28,8
+34,diseases of the ear,2010-11-23,118.0,10,10.0,37,268.519,93,0,high school,0,0,0,0,83.0,172.0,28,8
+28,medical consultation,2007-11-27,225.0,26,9.0,28,268.519,93,0,high school,1,0,0,2,69.0,169.0,24,2
+33,genitourinary diseases,2009-11-26,248.0,25,14.0,47,268.519,93,0,high school,2,0,0,1,86.0,,32,4
+28,medical consultation,2008-11-28,225.0,26,9.0,28,268.519,93,0,high school,1,0,0,2,69.0,169.0,24,2
+13,unjustified absence,2007-11-23,369.0,17,12.0,31,268.519,93,0,high school,3,1,0,0,70.0,169.0,25,8
+10,dental consultation,2009-11-23,361.0,52,,28,268.519,93,0,high school,1,1,0,4,80.0,172.0,27,2
+3,muscoskeletal diseases,2007-12-25,179.0,51,,38,280.54900000000004,98,0,high school,0,1,0,0,89.0,170.0,31,32
+15,dental consultation,2009-12-23,291.0,31,12.0,40,280.54900000000004,98,0,high school,1,1,0,1,73.0,171.0,25,1
+28,medical consultation,2008-12-24,,26,9.0,28,280.54900000000004,98,0,high school,1,0,0,2,,169.0,24,3
+22,muscoskeletal diseases,2010-12-24,179.0,26,9.0,30,280.54900000000004,98,0,postgraduate,0,0,0,0,56.0,171.0,19,1
+28,medical consultation,2007-12-28,225.0,26,9.0,28,280.54900000000004,98,0,high school,1,0,0,2,69.0,169.0,24,3
+28,medical consultation,2007-12-26,225.0,26,9.0,28,280.54900000000004,98,0,high school,1,0,0,2,69.0,,24,3
+10,genitourinary diseases,2007-12-27,361.0,52,3.0,28,280.54900000000004,98,0,high school,1,1,0,4,80.0,,27,4
+17,abnormal clinical and laboratory findings,2007-12-28,,22,17.0,40,280.54900000000004,98,0,graduate,2,0,1,0,63.0,,22,2
+5,unjustified absence,2009-12-25,235.0,20,13.0,43,280.54900000000004,98,0,high school,1,1,0,0,106.0,167.0,38,8
+12,abnormal clinical and laboratory findings,2007-12-24,,51,1.0,31,280.54900000000004,98,0,graduate,1,1,0,8,68.0,178.0,21,8
+22,muscoskeletal diseases,2008-12-23,179.0,26,9.0,30,280.54900000000004,98,0,postgraduate,0,0,0,0,56.0,,19,16
+28,medical consultation,2008-12-23,225.0,26,9.0,28,280.54900000000004,98,0,high school,1,0,0,2,69.0,,24,2
+28,medical consultation,2007-12-27,225.0,26,,28,280.54900000000004,98,0,high school,1,0,0,2,69.0,169.0,24,3
+28,medical consultation,2007-12-24,225.0,26,9.0,28,280.54900000000004,98,0,high school,1,0,0,2,69.0,169.0,24,2
+14,abnormal clinical and laboratory findings,2007-12-25,155.0,12,14.0,34,280.54900000000004,98,0,high school,2,1,0,0,95.0,196.0,25,80
+22,skin diseases,2010-01-25,179.0,26,9.0,30,313.532,96,0,postgraduate,0,0,0,0,56.0,,19,24
+22,skin diseases,2010-01-28,179.0,26,9.0,30,313.532,96,0,postgraduate,0,0,0,0,56.0,,19,16
+17,laboratory examination,2009-01-22,179.0,22,17.0,40,313.532,96,0,graduate,2,0,1,0,63.0,170.0,22,2
+17,laboratory examination,2010-01-22,179.0,22,17.0,40,313.532,96,0,graduate,2,0,1,0,,,22,2
+22,muscoskeletal diseases,2007-01-22,,26,9.0,30,313.532,96,0,postgraduate,0,0,0,0,56.0,171.0,19,3
+17,laboratory examination,2007-01-24,179.0,22,17.0,40,313.532,96,0,graduate,2,0,1,0,,,22,2
+32,respiratory diseases,2009-01-22,,48,29.0,49,313.532,96,0,high school,0,0,0,2,108.0,172.0,36,8
+17,abnormal clinical and laboratory findings,2008-01-25,179.0,22,17.0,40,313.532,96,0,graduate,2,0,1,0,63.0,170.0,22,3
+22,physiotherapy,2007-01-22,179.0,26,9.0,30,313.532,96,0,postgraduate,0,0,0,0,56.0,171.0,19,2
+14,abnormal clinical and laboratory findings,2007-01-23,155.0,12,14.0,34,313.532,96,0,high school,2,1,0,0,95.0,196.0,25,8
+22,physiotherapy,2010-01-27,179.0,26,9.0,30,313.532,96,0,postgraduate,0,0,0,0,56.0,171.0,19,2
+3,physiotherapy,2007-01-24,179.0,51,,38,313.532,96,0,high school,0,1,0,0,,170.0,31,3
+11,muscoskeletal diseases,2010-01-27,289.0,36,13.0,33,313.532,96,0,high school,2,1,0,1,90.0,172.0,30,8
+3,physiotherapy,2009-01-22,179.0,51,18.0,38,313.532,96,0,high school,0,1,0,0,89.0,170.0,31,3
+3,physiotherapy,2009-01-23,179.0,51,,38,313.532,96,0,high school,0,1,0,0,89.0,170.0,31,2
+3,muscoskeletal diseases,2007-02-27,179.0,51,18.0,38,264.249,97,0,high school,0,1,0,0,,170.0,31,8
+28,medical consultation,2007-02-27,225.0,26,9.0,28,264.249,97,0,high school,1,0,0,2,69.0,,24,3
+33,infectious and parasitic diseases,2010-02-24,,25,14.0,47,264.249,97,0,high school,2,0,0,1,86.0,165.0,32,8
+3,physiotherapy,2010-02-24,179.0,51,18.0,38,264.249,97,0,high school,0,1,0,0,,170.0,31,2
+28,dental consultation,2010-02-25,225.0,26,9.0,28,264.249,97,0,high school,1,0,0,2,,169.0,24,3
+3,physiotherapy,2010-02-25,,51,18.0,38,264.249,97,0,high school,0,1,0,0,89.0,170.0,31,2
+22,physiotherapy,2010-02-25,179.0,26,9.0,30,264.249,97,0,postgraduate,0,0,0,0,,171.0,19,2
+29,dental consultation,2008-02-22,225.0,15,15.0,41,264.249,97,0,master and doctor,2,1,0,2,94.0,182.0,28,2
+3,physiotherapy,2010-02-26,179.0,51,,38,264.249,97,0,high school,0,1,0,0,89.0,,31,2
+12,"injury, poisoning and other external causes",2008-02-25,233.0,51,1.0,31,264.249,97,0,graduate,1,1,0,8,68.0,,21,2
+3,physiotherapy,2010-02-22,179.0,51,18.0,38,264.249,97,0,high school,0,1,0,0,89.0,170.0,31,2
+28,diseases of the eye,2010-02-23,225.0,26,9.0,28,264.249,97,0,high school,1,0,0,2,69.0,169.0,24,8
+3,physiotherapy,2009-02-25,179.0,51,18.0,38,264.249,97,0,high school,0,1,0,0,89.0,170.0,31,3
+3,physiotherapy,2008-02-28,,51,18.0,38,264.249,97,0,high school,0,1,0,0,,170.0,31,3
+28,laboratory examination,2007-02-22,225.0,26,9.0,28,264.249,97,0,high school,1,0,0,2,,169.0,24,3
+22,muscoskeletal diseases,2007-02-22,179.0,26,9.0,30,264.249,97,0,postgraduate,0,0,0,0,56.0,,19,2
+17,medical consultation,2010-02-26,179.0,22,,40,264.249,97,0,graduate,2,0,1,0,,170.0,22,2
+3,physiotherapy,2009-02-27,179.0,51,18.0,38,264.249,97,0,high school,0,1,0,0,89.0,170.0,31,3
+12,skin diseases,2007-02-28,233.0,51,1.0,31,264.249,97,0,graduate,1,1,0,8,68.0,178.0,21,3
+22,physiotherapy,2009-02-25,179.0,26,,30,264.249,97,0,postgraduate,0,0,0,0,56.0,,19,2
+3,physiotherapy,2007-02-28,179.0,51,,38,264.249,97,0,high school,0,1,0,0,89.0,170.0,31,2
+3,muscoskeletal diseases,2010-02-25,179.0,51,18.0,38,264.249,97,0,high school,0,1,0,0,89.0,170.0,31,8
+3,physiotherapy,2010-02-26,179.0,51,18.0,38,264.249,97,0,high school,0,1,0,0,89.0,170.0,31,2
+14,laboratory examination,2008-02-25,155.0,12,,34,264.249,97,0,high school,2,1,0,0,95.0,196.0,25,5
+25,laboratory examination,2008-02-25,235.0,16,8.0,32,264.249,97,0,postgraduate,0,0,0,0,75.0,,25,3
+3,physiotherapy,2009-02-23,179.0,51,18.0,38,264.249,97,0,high school,0,1,0,0,89.0,170.0,31,2
+28,diseases of the eye,2009-02-23,,26,9.0,28,264.249,97,0,high school,1,0,0,2,69.0,169.0,24,2
+3,physiotherapy,2009-02-24,179.0,51,18.0,38,264.249,97,0,high school,0,1,0,0,89.0,170.0,31,2
+33,medical consultation,2008-02-26,248.0,25,14.0,47,264.249,97,0,high school,2,0,0,1,86.0,165.0,32,2
+28,laboratory examination,2008-02-26,225.0,26,9.0,28,264.249,97,0,high school,1,0,0,2,69.0,169.0,24,2
+3,physiotherapy,2010-02-24,179.0,51,18.0,38,264.249,97,0,high school,0,1,0,0,89.0,,31,2
+3,physiotherapy,2009-02-26,179.0,51,18.0,38,264.249,97,0,high school,0,1,0,0,89.0,,31,2
+25,laboratory examination,2009-02-27,235.0,16,8.0,32,264.249,97,0,postgraduate,0,0,0,0,75.0,178.0,25,2
+3,physiotherapy,2007-03-26,179.0,51,18.0,38,222.196,99,0,high school,0,1,0,0,89.0,170.0,31,2
+33,medical consultation,2009-03-23,248.0,25,14.0,47,222.196,99,0,high school,2,0,0,1,86.0,165.0,32,2
+9,laboratory examination,2010-03-23,228.0,14,16.0,58,222.196,99,0,high school,2,0,0,1,65.0,,22,3
+33,laboratory examination,2010-03-23,248.0,25,,47,222.196,99,0,high school,2,0,0,1,86.0,165.0,32,3
+9,skin diseases,2008-03-25,228.0,14,16.0,58,222.196,99,0,high school,2,0,0,1,65.0,172.0,22,112
+3,physiotherapy,2009-03-25,,51,18.0,38,222.196,99,0,high school,0,1,0,0,89.0,170.0,31,2
+28,physiotherapy,2010-03-25,225.0,26,9.0,28,222.196,99,0,high school,1,0,0,2,69.0,,24,2
+3,physiotherapy,2008-03-27,179.0,51,18.0,38,222.196,99,0,high school,0,1,0,0,89.0,170.0,31,3
+28,laboratory examination,2007-03-22,,26,9.0,28,222.196,99,0,high school,1,0,0,2,,169.0,24,2
+22,physiotherapy,2007-03-23,179.0,26,9.0,30,222.196,99,0,postgraduate,0,0,0,0,56.0,,19,3
+25,laboratory examination,2010-03-22,,16,8.0,32,222.196,99,0,postgraduate,0,0,0,0,75.0,,25,3
+10,"injury, poisoning and other external causes",2008-03-24,,52,3.0,28,222.196,99,0,high school,1,1,0,4,80.0,172.0,27,8
+3,muscoskeletal diseases,2009-03-24,179.0,51,18.0,38,222.196,99,0,high school,0,1,0,0,,170.0,31,8
+3,physiotherapy,2010-03-24,179.0,51,18.0,38,222.196,99,0,high school,0,1,0,0,89.0,170.0,31,2
+3,physiotherapy,2007-03-22,179.0,51,18.0,38,222.196,99,0,high school,0,1,0,0,,170.0,31,3
+22,physiotherapy,2010-03-26,179.0,26,9.0,30,222.196,99,0,postgraduate,0,0,0,0,56.0,171.0,19,2
+3,respiratory diseases,2008-03-24,,51,18.0,38,222.196,99,0,high school,0,1,0,0,89.0,170.0,31,4
+33,muscoskeletal diseases,2008-03-24,248.0,25,14.0,47,222.196,99,0,high school,2,0,0,1,,,32,2
+3,physiotherapy,2008-03-24,179.0,51,18.0,38,222.196,99,0,high school,0,1,0,0,89.0,170.0,31,3
+28,diseases of the eye,2007-03-26,225.0,26,9.0,28,222.196,99,0,high school,1,0,0,2,69.0,169.0,24,8
+3,physiotherapy,2010-03-23,,51,18.0,38,222.196,99,0,high school,0,1,0,0,,170.0,31,2
+11,medical consultation,2010-03-24,289.0,36,13.0,33,222.196,99,0,high school,2,1,0,1,90.0,172.0,30,8
+9,laboratory examination,2010-03-24,228.0,14,16.0,58,222.196,99,0,high school,2,0,0,1,65.0,172.0,22,2
+3,physiotherapy,2010-03-24,179.0,51,18.0,38,222.196,99,0,high school,0,1,0,0,,,31,2
+33,medical consultation,2007-03-22,248.0,25,14.0,47,222.196,99,0,high school,2,0,0,1,86.0,,32,3
+3,physiotherapy,2009-03-26,179.0,51,18.0,38,222.196,99,0,high school,0,1,0,0,89.0,170.0,31,3
+22,medical consultation,2010-03-26,179.0,26,9.0,30,222.196,99,0,postgraduate,0,0,0,0,,171.0,19,2
+3,physiotherapy,2008-03-28,179.0,51,18.0,38,222.196,99,0,high school,0,1,0,0,89.0,170.0,31,3
+3,physiotherapy,2010-03-23,179.0,51,18.0,38,222.196,99,0,high school,0,1,0,0,89.0,170.0,31,3
+16,medical consultation,2010-03-24,,15,24.0,46,222.196,99,0,high school,2,1,1,0,,175.0,25,8
+14,muscoskeletal diseases,2010-03-24,155.0,12,14.0,34,222.196,99,0,high school,2,1,0,0,95.0,196.0,25,24
+3,physiotherapy,2008-03-26,179.0,51,,38,222.196,99,0,high school,0,1,0,0,89.0,170.0,31,3
+3,physiotherapy,2010-03-25,179.0,51,18.0,38,222.196,99,0,high school,0,1,0,0,89.0,170.0,31,3
+22,muscoskeletal diseases,2007-03-26,179.0,26,9.0,30,222.196,99,0,postgraduate,0,0,0,0,56.0,171.0,19,2
+11,"injury, poisoning and other external causes",2009-03-23,289.0,36,,33,222.196,99,0,high school,2,1,0,1,90.0,172.0,30,104
+13,patient follow-up,2009-03-25,,17,12.0,31,222.196,99,0,high school,3,1,0,0,,169.0,25,8
+28,muscoskeletal diseases,2009-04-27,225.0,26,,28,246.28799999999998,91,0,high school,1,0,0,2,69.0,169.0,24,8
+34,respiratory diseases,2008-04-28,118.0,10,10.0,37,246.28799999999998,91,0,high school,0,0,0,0,83.0,172.0,28,8
+10,"injury, poisoning and other external causes",2007-04-24,,52,3.0,28,246.28799999999998,91,0,high school,1,1,0,4,,172.0,27,8
+33,"injury, poisoning and other external causes",2008-04-23,248.0,25,14.0,47,246.28799999999998,91,0,high school,2,0,0,1,,165.0,32,8
+6,muscoskeletal diseases,2010-04-22,189.0,29,,33,246.28799999999998,91,0,high school,2,0,0,2,69.0,167.0,25,8
+22,physiotherapy,2009-04-24,,26,9.0,30,246.28799999999998,91,0,postgraduate,0,0,0,0,56.0,171.0,19,2
+13,diseases of the eye,2007-04-23,369.0,17,12.0,31,246.28799999999998,91,0,high school,3,1,0,0,70.0,169.0,25,24
+17,conditions originating in the perinatal period,2009-04-28,179.0,22,17.0,40,246.28799999999998,91,0,graduate,2,0,1,0,63.0,,22,2
+36,medical consultation,2007-04-24,118.0,13,18.0,50,246.28799999999998,91,0,high school,1,1,0,0,98.0,,31,3
+10,medical consultation,2009-04-28,361.0,52,3.0,28,246.28799999999998,91,0,high school,1,1,0,4,80.0,172.0,27,2
+34,respiratory diseases,2008-04-23,118.0,10,10.0,37,246.28799999999998,91,0,high school,0,0,0,0,83.0,172.0,28,2
+1,patient follow-up,2008-04-25,235.0,11,14.0,37,246.28799999999998,91,0,postgraduate,1,0,0,1,88.0,172.0,29,8
+22,physiotherapy,2008-04-25,179.0,26,9.0,30,246.28799999999998,91,0,postgraduate,0,0,0,0,56.0,171.0,19,2
+28,"injury, poisoning and other external causes",2010-04-26,,26,9.0,28,246.28799999999998,91,0,high school,1,0,0,2,69.0,169.0,24,8
+25,conditions originating in the perinatal period,2007-04-24,235.0,16,,32,246.28799999999998,91,0,postgraduate,0,0,0,0,75.0,178.0,25,3
+22,physiotherapy,2007-04-27,179.0,26,9.0,30,246.28799999999998,91,0,postgraduate,0,0,0,0,56.0,171.0,19,2
+14,dental consultation,2009-04-28,155.0,12,14.0,34,246.28799999999998,91,0,high school,2,1,0,0,95.0,196.0,25,4
+28,"injury, poisoning and other external causes",2008-04-24,225.0,26,9.0,28,246.28799999999998,91,0,high school,1,0,0,2,,169.0,24,8
+36,genitourinary diseases,2009-04-23,118.0,13,18.0,50,246.28799999999998,91,0,high school,1,1,0,0,98.0,178.0,31,2
+22,physiotherapy,2010-04-23,179.0,26,9.0,30,246.28799999999998,91,0,postgraduate,0,0,0,0,56.0,171.0,19,2
+1,patient follow-up,2007-05-28,,11,14.0,37,237.65599999999998,99,0,postgraduate,1,0,0,1,88.0,172.0,29,8
+29,"injury, poisoning and other external causes",2009-05-27,225.0,15,15.0,41,237.65599999999998,99,0,master and doctor,2,1,0,2,,182.0,28,3
+25,dental consultation,2010-05-26,235.0,16,8.0,32,237.65599999999998,99,0,postgraduate,0,0,0,0,75.0,178.0,25,2
+34,diseases of the ear,2009-05-27,118.0,10,,37,237.65599999999998,99,0,high school,0,0,0,0,,172.0,28,3
+5,unjustified absence,2007-05-23,235.0,20,,43,237.65599999999998,99,0,high school,1,1,0,0,106.0,167.0,38,8
+22,muscoskeletal diseases,2009-05-28,179.0,26,,30,237.65599999999998,99,0,postgraduate,0,0,0,0,56.0,171.0,19,1
+15,dental consultation,2010-05-27,291.0,31,12.0,40,237.65599999999998,99,0,high school,1,1,0,1,73.0,171.0,25,2
+29,genitourinary diseases,2009-05-28,225.0,15,15.0,41,237.65599999999998,99,0,master and doctor,2,1,0,2,94.0,,28,8
+26,"injury, poisoning and other external causes",2008-05-23,,26,13.0,43,237.65599999999998,99,0,high school,2,1,1,1,77.0,,25,64
+29,patient follow-up,2009-05-22,225.0,15,,41,237.65599999999998,99,0,master and doctor,2,1,0,2,,182.0,28,8
+22,physiotherapy,2009-05-22,179.0,26,9.0,30,237.65599999999998,99,0,postgraduate,0,0,0,0,,171.0,19,2
+36,medical consultation,2007-05-28,,13,18.0,50,237.65599999999998,99,0,high school,1,1,0,0,98.0,178.0,31,2
+36,mental disorders,2007-05-22,118.0,13,18.0,50,237.65599999999998,99,0,high school,1,1,0,0,,178.0,31,3
+34,dental consultation,2010-05-25,118.0,10,10.0,37,237.65599999999998,99,0,high school,0,0,0,0,83.0,,28,1
+22,physiotherapy,2008-05-28,179.0,26,,30,237.65599999999998,99,0,postgraduate,0,0,0,0,56.0,171.0,19,2
+17,conditions originating in the perinatal period,2010-05-28,179.0,22,17.0,40,237.65599999999998,99,0,graduate,2,0,1,0,,170.0,22,1
+14,respiratory diseases,2007-05-28,155.0,12,14.0,34,237.65599999999998,99,0,high school,2,1,0,0,95.0,196.0,25,48
+25,respiratory diseases,2008-05-26,235.0,16,8.0,32,237.65599999999998,99,0,postgraduate,0,0,0,0,75.0,178.0,25,8
+15,patient follow-up,2007-05-23,291.0,31,,40,237.65599999999998,99,0,high school,1,1,0,1,73.0,171.0,25,8
+17,respiratory diseases,2007-05-23,179.0,22,17.0,40,237.65599999999998,99,0,graduate,2,0,1,0,63.0,170.0,22,8
+28,diseases of the nervous system,2009-05-27,,26,,28,237.65599999999998,99,0,high school,1,0,0,2,69.0,169.0,24,3
+18,respiratory diseases,2007-05-24,330.0,16,4.0,28,237.65599999999998,99,0,graduate,0,0,0,0,84.0,182.0,25,8
+25,medical consultation,2010-05-27,235.0,16,8.0,32,237.65599999999998,99,0,postgraduate,0,0,0,0,75.0,178.0,25,2
+15,dental consultation,2007-05-24,,31,12.0,40,237.65599999999998,99,0,high school,1,1,0,1,73.0,,25,2
+22,physiotherapy,2007-05-25,179.0,26,9.0,30,237.65599999999998,99,0,postgraduate,0,0,0,0,56.0,171.0,19,2
+10,diseases of the eye,2010-05-24,361.0,52,3.0,28,237.65599999999998,99,0,high school,1,1,0,4,80.0,172.0,27,8
+14,medical consultation,2009-05-27,155.0,12,14.0,34,237.65599999999998,99,0,high school,2,1,0,0,95.0,196.0,25,2
+17,laboratory examination,2010-05-28,179.0,22,17.0,40,237.65599999999998,99,0,graduate,2,0,1,0,63.0,170.0,22,8
+14,respiratory diseases,2009-05-22,155.0,12,14.0,34,237.65599999999998,99,0,high school,2,1,0,0,95.0,196.0,25,8
+28,digestive diseases,2009-05-25,225.0,26,9.0,28,237.65599999999998,99,0,high school,1,0,0,2,69.0,169.0,24,1
+16,diseases of the eye,2007-06-27,118.0,15,24.0,46,275.089,96,0,high school,2,1,1,0,75.0,175.0,25,8
+22,physiotherapy,2008-06-25,179.0,26,9.0,30,275.089,96,0,postgraduate,0,0,0,0,56.0,171.0,19,3
+34,unjustified absence,2007-06-22,118.0,10,,37,275.089,96,0,high school,0,0,0,0,83.0,172.0,28,8
+34,respiratory diseases,2009-06-24,118.0,10,10.0,37,275.089,96,0,high school,0,0,0,0,,172.0,28,8
+23,patient follow-up,2009-06-25,,49,11.0,36,275.089,96,0,high school,2,0,1,4,,174.0,21,8
+36,"injury, poisoning and other external causes",2007-06-28,,13,,50,275.089,96,0,high school,1,1,0,0,98.0,,31,24
+12,"injury, poisoning and other external causes",2009-06-26,,51,1.0,31,275.089,96,0,graduate,1,1,0,8,,178.0,21,8
+22,physiotherapy,2007-06-22,179.0,26,9.0,30,275.089,96,0,postgraduate,0,0,0,0,,171.0,19,2
+36,"injury, poisoning and other external causes",2010-06-24,118.0,13,18.0,50,275.089,96,0,high school,1,1,0,0,98.0,178.0,31,3
+22,muscoskeletal diseases,2008-06-26,179.0,26,9.0,30,275.089,96,0,postgraduate,0,0,0,0,56.0,171.0,19,2
+15,dental consultation,2009-06-25,291.0,31,12.0,40,275.089,96,0,high school,1,1,0,1,73.0,171.0,25,2
+22,muscoskeletal diseases,2010-06-28,,26,9.0,30,275.089,96,0,postgraduate,0,0,0,0,56.0,171.0,19,3
+34,laboratory examination,2008-06-23,118.0,10,10.0,37,275.089,96,0,high school,0,0,0,0,83.0,172.0,28,3
+12,patient follow-up,2009-06-25,233.0,51,1.0,31,275.089,96,0,graduate,1,1,0,8,68.0,,21,8
+34,diseases of the ear,2007-06-22,118.0,10,10.0,37,275.089,96,0,high school,0,0,0,0,83.0,172.0,28,2
+34,respiratory diseases,2008-06-25,118.0,10,10.0,37,275.089,96,0,high school,0,0,0,0,83.0,172.0,28,3
+12,patient follow-up,2007-06-27,233.0,51,1.0,31,275.089,96,0,graduate,1,1,0,8,,,21,3
+5,unjustified absence,2009-07-22,235.0,20,13.0,43,264.60400000000004,93,0,high school,1,1,0,0,106.0,167.0,38,4
+12,"injury, poisoning and other external causes",2007-07-27,233.0,51,1.0,31,264.60400000000004,93,0,graduate,1,1,0,8,68.0,178.0,21,2
+9,diseases of the nervous system,2009-07-27,228.0,14,,58,264.60400000000004,93,0,high school,2,0,0,1,65.0,172.0,22,8
+34,dental consultation,2008-07-28,118.0,10,10.0,37,264.60400000000004,93,0,high school,0,0,0,0,83.0,172.0,28,4
+9,diseases of the nervous system,2007-07-24,228.0,14,16.0,58,264.60400000000004,93,0,high school,2,0,0,1,65.0,172.0,22,120
+6,patient follow-up,2007-07-24,189.0,29,13.0,33,264.60400000000004,93,0,high school,2,0,0,2,69.0,167.0,25,16
+34,medical consultation,2008-07-23,118.0,10,,37,264.60400000000004,93,0,high school,0,0,0,0,83.0,172.0,28,2
+10,patient follow-up,2008-07-23,361.0,52,,28,264.60400000000004,93,0,high school,1,1,0,4,80.0,,27,8
+28,patient follow-up,2007-07-25,,26,,28,264.60400000000004,93,0,high school,1,0,0,2,69.0,169.0,24,8
+13,muscoskeletal diseases,2009-07-27,369.0,17,12.0,31,264.60400000000004,93,0,high school,3,1,0,0,70.0,169.0,25,80
+11,genitourinary diseases,2008-07-22,289.0,36,,33,264.60400000000004,93,0,high school,2,1,0,1,90.0,172.0,30,8
+1,digestive diseases,2008-07-22,235.0,11,14.0,37,264.60400000000004,93,0,postgraduate,1,0,0,1,88.0,172.0,29,4
